@@ -1,3 +1,3 @@
 # ChatterApp
-#About#-
-## Technology Used- Java,XML,Firebase
+#About
+### Technology Used- Java,XML,Firebase
